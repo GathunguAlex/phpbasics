@@ -9,9 +9,10 @@
 <body>
     <h1>Practice</h1>
     <?php 
-    echo("Hello World!");
-    echo("<hr>");
-    echo("<h1> hi programmer</h1>");
+    $age=12;
+    $name="Brook";
+
+    echo "Hi there, my name is $name and i am $age years old.
     
     ?>
 </body>
